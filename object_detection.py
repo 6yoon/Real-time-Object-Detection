@@ -115,7 +115,7 @@ while True:
     img_pil = Image.fromarray(frame)
     draw = ImageDraw.Draw(img_pil)
 
-    draw.rectangle([10, 20, original_width - 10, 100], fill=(0, 0, 0, 150)) 
+    draw.rectangle([10, 20, 270, 100], fill=(0, 0, 0, 150)) 
 
     draw.text((20, 30), f"현재 이동 중인 차량: {car_count}", font=font, fill=(255, 255, 255))
     draw.text((20, 60), f"현재 유동 인구: {person_count}", font=font, fill=(255, 255, 255))
