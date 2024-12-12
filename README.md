@@ -2,7 +2,7 @@
 유튜브 실시간 cctv 영상에서 이동 차량 수와 유동 인구를 파악할 수 있다.
 
 <div align="center">
-<img width=550>
+<img src="https://github.com/user-attachments/assets/48235010-5b62-44e1-9d90-534fdae08d46"width=550>
 <p>시연 영상</p>
 </div>
 
