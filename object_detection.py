@@ -44,7 +44,7 @@ threading.Thread(target=capture_frames, daemon=True).start()
 last_detected_cars = []  # 마지막 감지된 차량 정보 저장
 
 # 나눔고딕 폰트 파일 경로
-font_path = "NanumGothicBold.ttf"  # 나눔고딕 폰트 파일 경로
+font_path = "font/NanumGothicBold.ttf"  # 나눔고딕 폰트 파일 경로
 font_size = 24
 font = ImageFont.truetype(font_path, font_size)
 
