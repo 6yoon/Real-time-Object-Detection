@@ -3,6 +3,7 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/be4a8946-3e2c-469e-8a20-8ddd5805952e"width=550>
+<img src="https://github.com/user-attachments/assets/c42f77a6-d430-4b5a-9ee5-39694829d6fe"width=550>
 <p>시연 영상</p>
 </div>
 
